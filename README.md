@@ -1,14 +1,12 @@
 
-Automatically install all Kali linux tools
-
 # Features
 Add Kali linux repositories
 Remove kali linux repositories
 Install Kali linux tools
-Requirements
+# Requirements
 Python 2.7
 An operating system (tested on Ubuntu)
-Installation
+# Installation
 sudo su
 git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
 chmod +x /usr/bin/katoolin
@@ -25,7 +23,7 @@ By installing armitage , you will install metasploit
 Warning
 Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .
 
-I have some questions!
+# questions?
 Please visit https://github.com/canarddu38/TheDuckpvpProject/issues
 
 Donations
