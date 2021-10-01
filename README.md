@@ -1,5 +1,4 @@
-katoolin
-katoolin
+
 Automatically install all Kali linux tools
 
 Features
@@ -34,7 +33,4 @@ Paypal : https://www.paypal.me/lionsec
 skrill : informatica98es@gmail.com
 Contact
 Website : https://neodrix.com
-Youtube : https://youtube.com/inf98es
-Facebook : https://facebook.com/in98
-Twitter: @LionSec1
-Email : informatica98es@gmail.com
+Youtube : https://youtube.com/canarddu38
