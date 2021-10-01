@@ -1,7 +1,7 @@
 
 Automatically install all Kali linux tools
 
-Features
+# Features
 Add Kali linux repositories
 Remove kali linux repositories
 Install Kali linux tools
@@ -16,7 +16,7 @@ sudo katoolin
 Video
 https://www.youtube.com/watch?v=8VxCWVoZEEE
 
-#Usage
+# Usage
 Typing the number of a tool will install it
 Typing 0 will install all Kali Linux tools
 back : Go back
@@ -30,6 +30,6 @@ Please visit https://github.com/canarddu38/TheDuckpvpProject/issues
 
 Donations
 Paypal : https://www.paypal.me/lionsec
-#Contact
+# Contact
 Website : https://duckpvpteam.github.io
 Youtube : https://youtube.com/channel/UCwHR2PzmmyZ1atKCyXgZ7dA
