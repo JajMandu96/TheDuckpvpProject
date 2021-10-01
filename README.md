@@ -1,18 +1,20 @@
-
+### DuckpvpConsole
+By [yt] Canard Du 38#9168
 # Features
-Add Kali linux repositories
-Remove kali linux repositories
-Install Kali linux tools
+Install DuckpvpConsole
+Can remove it later
+Use the command panel
 # Requirements
 Python 2.7
 An operating system (tested on Ubuntu)
 # Installation
 sudo su
-git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
+git clone https://github.com/canarddu38/TheDuckpvpPorject 
+.git && cp TheDuckpvpProject/Duckpvp.py /usr/bin/Duckpvp
 chmod +x /usr/bin/katoolin
 sudo katoolin
 Video
-https://www.youtube.com/watch?v=8VxCWVoZEEE
+# https://www.youtube.com/watch?v=8VxCWVoZEEE
 
 # Usage
 Typing the number of a tool will install it
