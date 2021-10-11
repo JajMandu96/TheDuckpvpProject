@@ -8,7 +8,7 @@ Use the command panel
 Python 2.7
 An operating system (tested on Ubuntu)
 # Installation
-sudo su
+```sudo su```
 git clone https://github.com/canarddu38/TheDuckpvpPorject 
 .git && cp TheDuckpvpProject/Duckpvp.py /usr/bin/Duckpvp
 chmod +x /usr/bin/katoolin
@@ -33,3 +33,4 @@ Paypal : https://www.paypal.me/lionsec
 # Contact
 Website : https://duckpvpteam.github.io
 Youtube : https://youtube.com/channel/UCwHR2PzmmyZ1atKCyXgZ7dA
+
